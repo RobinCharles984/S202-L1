@@ -1,0 +1,30 @@
+{
+    "professor" : "Lucas",
+    "assunto" : "Computação Gráfica",
+    "alunos" : [
+        "Maria",
+        "Pedro",
+        "Henrique",
+        "Julia"
+    ]
+}
+{
+    "professor" : "Renzo",
+    "assunto" : "Programação Orientada a Objetos",
+    "alunos" : [
+        "Maria",
+        "Pedro",
+        "Henrique",
+        "Julia"
+    ]
+}
+{
+    "professor" : "Jonas",
+    "assunto" : "Banco de Dados II",
+    "alunos" : [
+        "Maria",
+        "Pedro",
+        "Henrique",
+        "Julia"
+    ]
+}
