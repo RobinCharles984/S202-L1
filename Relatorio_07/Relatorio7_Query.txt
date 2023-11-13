@@ -1,0 +1,20 @@
+Agregações:
+match(n:State) return count(*)
+match(n:Shop) return sum(n.id)
+match(n:BankCard) return avg(n.limit)
+match(n:Login) return min(n.firstName)
+match(n:Login) return max(n.firstName)
+
+Funções matemáticas:
+return abs(3 - 2)
+return ceil(0.75)
+return floor(2.3)
+return rand()
+return sign(-5)
+
+Funções de String:
+return left('world', 4)
+return right('heaven', 2)
+return toupper('made in england')
+return tolower('NOT OFFICIAL')
+return reverse('OmissíssimO')
